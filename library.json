@@ -1,0 +1,93 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "Sky City",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "The Big House",
+        "author": "Tom Smith",
+        "year": 2000,
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "Sky City",
+        "author": "Emma Brown",
+        "year": 2010,
+        "genre": "Sci-Fi",
+        "read": false
+    },
+    {
+        "title": "Happy Days",
+        "author": "Lily Green",
+        "year": 2015,
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "Deep Ocean",
+        "author": "Jack Blue",
+        "year": 2005,
+        "genre": "Adventure",
+        "read": false
+    },
+    {
+        "title": "Love Story",
+        "author": "Anna White",
+        "year": 2018,
+        "genre": "Romance",
+        "read": true
+    },
+    {
+        "title": "Fast Car",
+        "author": "Mike Grey",
+        "year": 2020,
+        "genre": "Fiction",
+        "read": false
+    },
+    {
+        "title": "New World",
+        "author": "Lucy Black",
+        "year": 2022,
+        "genre": "Dystopian",
+        "read": true
+    },
+    {
+        "title": "Magic Land",
+        "author": "Chris Gold",
+        "year": 2011,
+        "genre": "Fantasy",
+        "read": true
+    },
+    {
+        "title": "Fire Town",
+        "author": "Sam Red",
+        "year": 2016,
+        "genre": "Dystopian",
+        "read": false
+    },
+    {
+        "title": "History Book",
+        "author": "Ben Silver",
+        "year": 2003,
+        "genre": "Historical",
+        "read": true
+    }
+]
